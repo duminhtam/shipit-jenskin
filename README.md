@@ -2,7 +2,7 @@
 ---
 Shipit is a deployment tool, this document is talk about shipit-cli. Shipit-deploy is using shipit-cli and build an deployment flow
 
-###Shipit-deploy Workflow tasks (never mind)
+### Shipit-deploy Workflow tasks (never mind)
 	- deploy
 	  - deploy:init
 	    - Emit event "deploy".
